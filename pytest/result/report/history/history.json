@@ -1,0 +1,79 @@
+{
+  "a2429c4af5baa2f5f160179e4f3ed722" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b5d7ca86f07022c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 如果版本号为1.1就执行该装饰器，即不执行该用例",
+      "time" : {
+        "start" : 1684488537222,
+        "stop" : 1684488537222,
+        "duration" : 0
+      }
+    } ]
+  },
+  "40e175dca1d76b1cd715a2197064c0e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2af95d5b41810edd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684488524212,
+        "stop" : 1684488537218,
+        "duration" : 13006
+      }
+    } ]
+  },
+  "336940e974d043e308022dd1a6ecdfc3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5edd3d4f14e3485c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684488537226,
+        "stop" : 1684488549231,
+        "duration" : 12005
+      }
+    } ]
+  },
+  "60c6416179ebb925145ca9a8d44bf00b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e08e930aa7a5ae8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684488549235,
+        "stop" : 1684488562322,
+        "duration" : 13087
+      }
+    } ]
+  }
+}

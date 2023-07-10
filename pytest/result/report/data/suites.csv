@@ -1,0 +1,13 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 19 17:28:57 CST 2023","Fri May 19 17:29:09 CST 2023","12005","testcases","test_page4","Test_Cases3","","","test_1","
+        验证账号密码都合适时的登录
+        "
+"skipped","Fri May 19 17:28:57 CST 2023","Fri May 19 17:28:57 CST 2023","0","testcases","test_page3","Test_Cases2","","","test_2","
+        验证账号存在时，不输入密码登录，报错后再输入密码进行登录
+        "
+"passed","Fri May 19 17:29:09 CST 2023","Fri May 19 17:29:22 CST 2023","13087","testcases","test_page4","Test_Cases4","","","test_2","
+        验证账号存在时，不输入密码登录，报错后再输入密码进行登录
+        "
+"passed","Fri May 19 17:28:44 CST 2023","Fri May 19 17:28:57 CST 2023","13006","testcases","test_page3","Test_Cases1","","","test_1","
+        验证账号密码都合适时的登录
+        "

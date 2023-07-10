@@ -1,0 +1,85 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_page3",
+      "children" : [ {
+        "name" : "Test_Cases1",
+        "children" : [ {
+          "name" : "test_1",
+          "uid" : "2af95d5b41810edd",
+          "parentUid" : "9c5d1267c76f70033c492fa681757ba6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684488524212,
+            "stop" : 1684488537218,
+            "duration" : 13006
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9c5d1267c76f70033c492fa681757ba6"
+      }, {
+        "name" : "Test_Cases2",
+        "children" : [ {
+          "name" : "test_2",
+          "uid" : "1b5d7ca86f07022c",
+          "parentUid" : "227a35c3a5f74e30e8cdbda7cd6d6857",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1684488537222,
+            "stop" : 1684488537222,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "227a35c3a5f74e30e8cdbda7cd6d6857"
+      } ],
+      "uid" : "02b3d5f75f2be4a274ae9f01dd74e847"
+    }, {
+      "name" : "test_page4",
+      "children" : [ {
+        "name" : "Test_Cases3",
+        "children" : [ {
+          "name" : "test_1",
+          "uid" : "5edd3d4f14e3485c",
+          "parentUid" : "336ad0cc7478d8bfe419eac2ab8bf9cb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684488537226,
+            "stop" : 1684488549231,
+            "duration" : 12005
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "336ad0cc7478d8bfe419eac2ab8bf9cb"
+      }, {
+        "name" : "Test_Cases4",
+        "children" : [ {
+          "name" : "test_2",
+          "uid" : "e08e930aa7a5ae8a",
+          "parentUid" : "856c467f2f1277961225b499927aa39e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684488549235,
+            "stop" : 1684488562322,
+            "duration" : 13087
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "856c467f2f1277961225b499927aa39e"
+      } ],
+      "uid" : "04d1597128b1002723637592ac189da0"
+    } ],
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
+  } ],
+  "name" : "suites"
+}
